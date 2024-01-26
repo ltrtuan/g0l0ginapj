@@ -1,0 +1,4 @@
+zero_profile.zip
+
+
+HTTPs://S3.EU-CENTRAL-1.AMAZONAWS.COM/gprofiles.gologin/zero_profile.zip

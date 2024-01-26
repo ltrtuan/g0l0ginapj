@@ -1,0 +1,7 @@
+1/setup nodejs
+2/ go to cmd
+3/ npm install
+4/ get api key 
+5/ run node 1 2 3 4 .js
+(paste api key and profileId)
+6/download s3path
